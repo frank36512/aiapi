@@ -424,6 +424,8 @@
 
 61. 云雾API（国际版）：https://yunwu.ai 「0.5元/美元、500+模型、国内直连」
 
+62. 盈算智服（Yingsuan AI）：https://yingsuan.top 「面向东南亚/南亚开发者、DeepSeek+GLM+Qwen聚合、100次免费体验+3永久免费模型、OpenAI兼容、Wise USD收款」
+
 ---
 
 ## 五、轻量测试/小众中转站（8家）
