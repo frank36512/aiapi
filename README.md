@@ -509,3 +509,4 @@
 ✨ **温馨提示**：本合集持续更新，欢迎Star、Fork，方便后续查阅和补充；使用平台前请务必核实网址可用性，避免踩坑。
 
 **License**：MIT License
+- [JiuRelay](https://jiurelay.com/) - Free AI API relay for GPT, Claude, GLM. No registration required, 1-hour valid key, OpenAI/Anthropic compatible.
