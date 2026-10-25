@@ -104,6 +104,8 @@
 
 29. 百川API：https://baichuanapi.com 「百川大模型专属、兼容第三方模型」【待验证】
 
+30. Twinkle Model：https://big-model.smart-agi.com 「OpenAI兼容、基于sub2api、分组倍率计费（GPT 0.1-0.25、Claude 0.15起、国模0.1起）、支持视频与图片、注册免费体验」
+
 ---
 
 ## 二、国内开源模型专属中转站（24家）
