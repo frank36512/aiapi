@@ -164,6 +164,8 @@
 
 12. CloseAI：https://www.closeai-asia.com 「Claude Code/CodeX全支持、企业级高可用、高并发」
 
+13. Code By AI：https://www.codebyai.net 「一个 Key 同时用于 Claude Code/Codex/Gemini CLI、按 token 计费无订阅、银行卡/微信/支付宝（Stripe）、最低充值 3 美元」
+
 ---
 
 ## 四、国际AI API中转站（54家）
