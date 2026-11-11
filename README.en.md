@@ -157,6 +157,8 @@ Last Updated: November 4, 2026
 
 12. **CloseAI**: https://www.closeai-asia.com - "Claude Code/CodeX full support, enterprise-grade high availability, high concurrency"
 
+13. **Code By AI**: https://www.codebyai.net - "One key for Claude Code/Codex/Gemini CLI, pay per token with no subscription, cards/WeChat Pay/Alipay via Stripe, US$3 minimum top-up"
+
 ---
 
 ## 4. International AI API Transfer Stations (54)
