@@ -278,6 +278,7 @@
 53. lanbuff.app：https://lanbuff.app 「Claude Code / Codex 专属分组、多模型支持、多支付方式、可开票、公开接口可探测」
 
 54. Tokens Forge：https://tokens-forge.com 「GPT / Claude / Gemini 风格模型与路由模型」
+55. 超稳API：https://apiniuma.com 「OpenAI 兼容聚合 API，按量付费，额度不过期，覆盖 GPT / Claude / Gemini / DeepSeek 等」
 
 ---
 
