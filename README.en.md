@@ -23,7 +23,9 @@ Last Updated: November 4, 2026
 5. [Lightweight Testing/Niche Transfer Stations (7)](#5-lightweight-testingniche-transfer-stations-7) - Free testing credits, small amounts available, suitable for short-term testing
 6. [Quick Selection Guide](#6-quick-selection-guide) - Quickly match the best platform by scenario
 7. [Safety & Avoiding Pitfalls Guide](#7-safety--avoiding-pitfalls-guide) - Must-read for beginners to avoid pitfalls
-8. [Contribution Guide](#8-contribution-guide) - How to supplement new transfer station information
+8. [Selection & Detection Tools](#8-selection--detection-tools) - Test a relay with your own key and view ranking data
+
+9. [Contribution Guide](#9-contribution-guide) - How to supplement new transfer station information
 
 ---
 
@@ -330,7 +332,15 @@ Transfer station platforms may be shut down or changed, regularly check platform
 
 ---
 
-## 8. Contribution Guide
+## 8. Selection & Detection Tools
+
+When choosing or checking a relay, you can use the public tool below as additional input. This list does not make commercial recommendations; please verify results yourself.
+
+1. Folkbench: https://folkbench.com/evaluations/api-quality?utm_source=github&utm_medium=awesome&utm_campaign=aiapi — Relay rankings and live checks. Test with your own key; the report is visible only to you and the key is not retained. Sorting follows the site rules, including partner tiers and ops boosts; some data are display samples.
+
+---
+
+## 9. Contribution Guide
 
 This repository is an open source project, welcome all developers to contribute and jointly maintain a comprehensive and accurate AI API third-party transfer station collection.
 
