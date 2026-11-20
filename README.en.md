@@ -20,7 +20,7 @@ Last Updated: November 4, 2026
 2. [Domestic Open Source Model Transfer Stations (19)](#2-domestic-open-source-model-transfer-stations-19) - Focus on Llama/Qwen/DeepSeek and other open source models
 3. [Claude Code/CodeX/Gemini CLI Transfer Stations (12)](#3-claude-codecodexgemini-cli-transfer-stations-12) - Only for IDE/CLI environment calls
 4. [International AI API Transfer Stations (54)](#4-international-ai-api-transfer-stations-54) - Overseas official transfer, most complete models, stability priority
-5. [Lightweight Testing/Niche Transfer Stations (7)](#5-lightweight-testingniche-transfer-stations-7) - Free testing credits, small amounts available, suitable for short-term testing
+5. [Lightweight Testing/Niche Transfer Stations (8)](#5-lightweight-testingniche-transfer-stations-8) - Free testing credits, small amounts available, suitable for short-term testing
 6. [Quick Selection Guide](#6-quick-selection-guide) - Quickly match the best platform by scenario
 7. [Safety & Avoiding Pitfalls Guide](#7-safety--avoiding-pitfalls-guide) - Must-read for beginners to avoid pitfalls
 8. [Contribution Guide](#8-contribution-guide) - How to supplement new transfer station information
@@ -275,7 +275,7 @@ Last Updated: November 4, 2026
 
 ---
 
-## 5. Lightweight Testing/Niche Transfer Stations (7)
+## 5. Lightweight Testing/Niche Transfer Stations (8)
 
 ✅ **Core Features**: Free testing credits upon registration, small amounts available, simple operation, suitable for personal short-term testing and experiencing AI APIs, not suitable for production environments, some platforms may have insufficient stability issues.
 
@@ -292,6 +292,8 @@ Last Updated: November 4, 2026
 6. **Yiye Zhiqiu API**: https://88996.cloud/ - "Lightweight, testing-friendly, no minimum spend, suitable for short-term testing" [Pending verification]
 
 7. **TokenMix**: https://tokenmix.ai - "Multi-model aggregation, Alipay/WeChat/Stripe, $1 minimum top-up, OpenAI compatible"
+
+8. **LinkAGI**: https://api.linktoagi.com - "Pay-as-you-go API relay for Codex. New users can apply for ¥5 in trial credit via the QQ group and the trial thread; credits are issued manually."
 
 ---
 
