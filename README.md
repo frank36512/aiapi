@@ -166,6 +166,8 @@
 
 13. Code By AI：https://www.codebyai.net 「一个 Key 同时用于 Claude Code/Codex/Gemini CLI、按 token 计费无订阅、银行卡/微信/支付宝（Stripe）、最低充值 3 美元」
 
+14. TokenMilo：https://www.tokenmilo.com/zh/ 「满血 Claude/GPT 共 21 个模型、一个 Key 兼容 OpenAI/Anthropic 协议、国内直连、Claude Code/Codex/Cursor 图文教程、微信/USDC 充值、注册送 $5」
+
 ---
 
 ## 四、国际AI API中转站（54家）
