@@ -90,6 +90,8 @@
 
 25. 速联AI：https://sulianai.com 「低延迟、多线路备份、个人/企业通用」【待验证】
 
+26. 万钥 Wanyra API（Star1Age）：https://api.star1age.cn 「国内直连、按量付费无订阅、83款文本/图像/视频模型（GPT 2.5折/Gemini 3.75折/Claude 4折起）、支付宝/微信/PayPal、公开每15分钟模型可用性与验真页 /status」
+
 ---
 
 ## 二、国内开源模型专属中转站（19家）
