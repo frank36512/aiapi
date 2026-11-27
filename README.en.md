@@ -83,6 +83,8 @@ Last Updated: November 4, 2026
 
 25. **SulianAI**: https://sulianai.com - "Low latency, multi-line backup, general for individuals/enterprises" [Pending verification]
 
+26. **Wanyra API (Star1Age)**: https://api.star1age.cn/en - "China direct access, pay-as-you-go with no subscription, 83 text/image/video models (GPT from 0.25x, Gemini from 0.375x, Claude from 0.4x), Alipay/WeChat Pay/PayPal, public 15-min availability & model verification status page (/status)"
+
 ---
 
 ## 2. Domestic Open Source Model Transfer Stations (19)
