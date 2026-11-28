@@ -16,13 +16,13 @@
 
 ## 目录
 
-1. [国内综合全能中转站（29家）](#一国内综合全能中转站25家) - 中文客服+支付宝/微信+可开票，适配企业/个人
+1. [国内综合全能中转站（31家）](#一国内综合全能中转站25家) - 中文客服+支付宝/微信+可开票，适配企业/个人
 
 2. [国内开源模型专属中转站（19家）](#二国内开源模型专属中转站19家) - 专注Llama/Qwen/DeepSeek等开源模型
 
 3. [Claude Code/CodeX/Gemini CLI专用中转站（13家）](#三claude-codecodexgemini-cli专用中转站12家) - 仅适配IDE/CLI环境调用
 
-4. [国际AI API中转站（55家）](#四国际ai-api中转站55家) - 海外官转、模型最全、稳定优先
+4. [国际AI API中转站（57家）](#四国际ai-api中转站55家) - 海外官转、模型最全、稳定优先
 
 5. [轻量测试/小众中转站（8家）](#五轻量测试小众中转站8家) - 送测试金、小额可用，适合短期测试
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 一、国内综合全能中转站（29家）
+## 一、国内综合全能中转站（31家）
 
 ✅ 核心特点：支持中文客服、支付宝/微信支付、可开具企业发票，兼容GPT-4、Claude、Gemini、国内大模型等全类型，稳定性适中，适配企业生产和个人开发。
 
@@ -99,6 +99,8 @@
 28. 九歌 API：https://api.tdcqcx.cn「OpenAI 兼容、27+ 模型、官方价/九歌价对照、支付宝/微信、按量/按次/点卡」
     
 29. Redapi：https://redapi.vip 「注册送 $5 站内余额｜Anthropic + OpenAI 双协议｜GPT / Claude / Gemini / Grok / 国产模型」
+30. 万钥 Wanyra API：https://api.star1age.cn 「国内直连，OpenAI 兼容 /v1 接口」
+31. LinkAGI：https://api.linktoagi.com 「按量计费的第三方 API 中转站，主要用于接入 Codex」
 
 ## 二、国内开源模型专属中转站（19家）
 
@@ -176,11 +178,11 @@
     
 14. QCode.cc：https://qcode.cc 「一个 Key 同时走 Anthropic 和 OpenAI 两种协议，适配 Claude Code / Codex CLI；Claude、GPT、GLM、Kimi、DeepSeek、Qwen；按官方价 ×1.0 计费」
 
-14. TokenMilo：https://www.tokenmilo.com/zh/ 「满血 Claude/GPT 共 21 个模型、一个 Key 兼容 OpenAI/Anthropic 协议、国内直连、Claude Code/Codex/Cursor 图文教程、微信/USDC 充值、注册送 $5」
+15. TokenMilo：https://www.tokenmilo.com/zh/ 「满血 Claude/GPT 共 21 个模型、一个 Key 兼容 OpenAI/Anthropic 协议、国内直连、Claude Code/Codex/Cursor 图文教程、微信/USDC 充值、注册送 $5」
 
 ---
 
-## 四、国际AI API中转站（56家）
+## 四、国际AI API中转站（57家）
 
 ✅ 核心特点：海外官转、模型最全（覆盖最新GPT-4 Turbo、Claude 3 Opus等），稳定性极高，适合有海外支付能力、追求极致稳定或需要新模型的用户。
 
@@ -291,9 +293,14 @@
 53. lanbuff.app：https://lanbuff.app 「Claude Code / Codex 专属分组、多模型支持、多支付方式、可开票、公开接口可探测」
 
 54. Tokens Forge：https://tokens-forge.com 「GPT / Claude / Gemini 风格模型与路由模型」
+    
 55. 超稳API：https://apiniuma.com 「OpenAI 兼容聚合 API，按量付费，额度不过期，覆盖 GPT / Claude / Gemini / DeepSeek 等」
 
-55. Earth 地球：https://ai.ai2059.com「多模型 API 聚合平台，支持 GPT、Claude、Gemini、DeepSeek、智谱 GLM等」
+56. Earth 地球：https://ai.ai2059.com「多模型 API 聚合平台，支持 GPT、Claude、Gemini、DeepSeek、智谱 GLM等」
+
+57. 夸父社API：https://kuafushe.cc 「New API 中转站，OpenAI/Anthropic 双协议，支持 Claude Code/Codex/Cursor」
+
+58. 盈算智服（Yingsuan AI）：https://yingsuan.top 「面向东南亚/南亚开发者、DeepSeek+Kimi K3+GLM+Qwen聚合」
 ---
 
 ## 五、轻量测试/小众中转站（8家）
