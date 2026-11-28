@@ -4,7 +4,7 @@
 
 **中文 | [English](README.en.md)**
 
-最后更新：2026年11月4日
+最后更新：2026年11月28日
 
 📢 **开源说明**：本仓库搜集整理市面上所有AI API第三方中转站，覆盖国内/国际、综合/专用、开源/商用等全类型，共90+家，适配个人测试、企业生产、开发者调用等全场景，持续更新中，欢迎Star ✨、Fork 🍴 补充完善。
 
@@ -20,9 +20,9 @@
 
 2. [国内开源模型专属中转站（19家）](#二国内开源模型专属中转站19家) - 专注Llama/Qwen/DeepSeek等开源模型
 
-3. [Claude Code/CodeX/Gemini CLI专用中转站（12家）](#三claude-codecodexgemini-cli专用中转站12家) - 仅适配IDE/CLI环境调用
+3. [Claude Code/CodeX/Gemini CLI专用中转站（13家）](#三claude-codecodexgemini-cli专用中转站12家) - 仅适配IDE/CLI环境调用
 
-4. [国际AI API中转站（54家）](#四国际ai-api中转站54家) - 海外官转、模型最全、稳定优先
+4. [国际AI API中转站（56家）](#四国际ai-api中转站54家) - 海外官转、模型最全、稳定优先
 
 5. [轻量测试/小众中转站（7家）](#五轻量测试小众中转站7家) - 送测试金、小额可用，适合短期测试
 
@@ -136,7 +136,7 @@
 
 ---
 
-## 三、Claude Code/CodeX/Gemini CLI专用中转站（12家）
+## 三、Claude Code/CodeX/Gemini CLI专用中转站（13家）
 
 ✅ 核心特点：仅支持在IDE（VS Code、PyCharm等）、CLI环境调用，专注代码生成、调试、优化，不支持通用文本/图片API，适合开发者使用。
 
@@ -165,10 +165,11 @@
 12. CloseAI：https://www.closeai-asia.com 「Claude Code/CodeX全支持、企业级高可用、高并发」
 
 13. Code By AI：https://www.codebyai.net 「一个 Key 同时用于 Claude Code/Codex/Gemini CLI、按 token 计费无订阅、银行卡/微信/支付宝（Stripe）、最低充值 3 美元」
+14. QCode.cc：https://qcode.cc 「一个 Key 同时走 Anthropic 和 OpenAI 两种协议，适配 Claude Code / Codex CLI；Claude、GPT、GLM、Kimi、DeepSeek、Qwen；按官方价 ×1.0 计费」
 
 ---
 
-## 四、国际AI API中转站（54家）
+## 四、国际AI API中转站（56家）
 
 ✅ 核心特点：海外官转、模型最全（覆盖最新GPT-4 Turbo、Claude 3 Opus等），稳定性极高，适合有海外支付能力、追求极致稳定或需要新模型的用户。
 
@@ -275,10 +276,11 @@
 51. proaiapi.tech：https://proaiapi.tech 「极致性价比、企业级稳定性、OpenAI兼容」
 
 52. NodAPI：https://nodapi.com 「高速稳定、多模型聚合、企业级低延迟」
-53. lanbuff.app：https://lanbuff.app 「Claude Code / Codex 专属分组、多模型支持、多支付方式、可开票、公开接口可探测」
+    
+54. lanbuff.app：https://lanbuff.app 「Claude Code / Codex 专属分组、多模型支持、多支付方式、可开票、公开接口可探测」
 
-54. Tokens Forge：https://tokens-forge.com 「GPT / Claude / Gemini 风格模型与路由模型」
-
+55. Tokens Forge：https://tokens-forge.com 「GPT / Claude / Gemini 风格模型与路由模型」
+56. Earth 地球｜多模型 API 聚合平台：https://ai.ai2059.com「多模型 API 聚合平台，支持 GPT、Claude、Gemini、DeepSeek、智谱 GLM等」
 ---
 
 ## 五、轻量测试/小众中转站（7家）
