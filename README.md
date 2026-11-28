@@ -174,6 +174,8 @@
     
 14. QCode.cc：https://qcode.cc 「一个 Key 同时走 Anthropic 和 OpenAI 两种协议，适配 Claude Code / Codex CLI；Claude、GPT、GLM、Kimi、DeepSeek、Qwen；按官方价 ×1.0 计费」
 
+14. TokenMilo：https://www.tokenmilo.com/zh/ 「满血 Claude/GPT 共 21 个模型、一个 Key 兼容 OpenAI/Anthropic 协议、国内直连、Claude Code/Codex/Cursor 图文教程、微信/USDC 充值、注册送 $5」
+
 ---
 
 ## 四、国际AI API中转站（56家）
