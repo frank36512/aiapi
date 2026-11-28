@@ -280,7 +280,8 @@
 54. lanbuff.app：https://lanbuff.app 「Claude Code / Codex 专属分组、多模型支持、多支付方式、可开票、公开接口可探测」
 
 55. Tokens Forge：https://tokens-forge.com 「GPT / Claude / Gemini 风格模型与路由模型」
-56. Earth 地球｜多模型 API 聚合平台：https://ai.ai2059.com「多模型 API 聚合平台，支持 GPT、Claude、Gemini、DeepSeek、智谱 GLM等」
+
+56. Earth 地球：https://ai.ai2059.com「多模型 API 聚合平台，支持 GPT、Claude、Gemini、DeepSeek、智谱 GLM等」
 ---
 
 ## 五、轻量测试/小众中转站（7家）
