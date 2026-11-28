@@ -34,7 +34,7 @@
 
 ---
 
-## 一、国内综合全能中转站（25家）
+## 一、国内综合全能中转站（32家）
 
 ✅ 核心特点：支持中文客服、支付宝/微信支付、可开具企业发票，兼容GPT-4、Claude、Gemini、国内大模型等全类型，稳定性适中，适配企业生产和个人开发。
 
@@ -90,7 +90,13 @@
 
 25. 速联AI：https://sulianai.com 「低延迟、多线路备份、个人/企业通用」【待验证】
 
----
+26. TeamoRouter：https://teamorouter.com 「一Key调用 Claude、GPT、Gemini、DeepSeek 等 70 多个模型」
+    
+27. AgentGate：https://agentgate.cc 「 1元=1刀；新用户注册直接送 $1，邀请拉新双方各送 $1」
+
+28. 九歌 API：https://api.tdcqcx.cn「OpenAI 兼容、27+ 模型、官方价/九歌价对照、支付宝/微信、按量/按次/点卡」
+    
+29. Redapi：https://redapi.vip 「注册送 $5 站内余额｜Anthropic + OpenAI 双协议｜GPT / Claude / Gemini / Grok / 国产模型」
 
 ## 二、国内开源模型专属中转站（19家）
 
